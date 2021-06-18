@@ -1,0 +1,33 @@
+body {
+  background-color: #EDFFEC;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+
+}
+h1 {
+  color: red;
+}
+h3 {
+  color: red;
+}
+
+.photo1 {
+  height: 400px;
+  width: 400px;
+}
+
+.photo2 {
+  height: 400px;
+  width: 400px;
+}
+
+.photo3 {
+  height: 400px;
+  width: 400px;
+}
